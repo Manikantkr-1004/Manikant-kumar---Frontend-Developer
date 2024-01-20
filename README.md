@@ -33,6 +33,26 @@ Check out the server: [Matrix Labs Backend](https://matrixlab.onrender.com)
 <br>
 
 
+# Screenshots
+
+**Prodcuts Component**
+![products](https://github.com/Manikantkr-1004/Manikant-kumar---Frontend-Developer/assets/123896779/a33d72c3-55cb-4128-8d8b-bb8867104465)
+
+
+**RoadMap Component**
+![roadmap](https://github.com/Manikantkr-1004/Manikant-kumar---Frontend-Developer/assets/123896779/690f53d1-47c0-48c0-92a9-43a5a743c211)
+
+
+**Token Component**
+![token](https://github.com/Manikantkr-1004/Manikant-kumar---Frontend-Developer/assets/123896779/f2d28f21-564a-4457-ac8a-7c7217682804)
+
+
+**Footer Component**
+![footer](https://github.com/Manikantkr-1004/Manikant-kumar---Frontend-Developer/assets/123896779/92fdfa3c-4603-4187-ab0a-6232b911c5c2)
+
+
+<br>
+
 # Installation
 To set up the project locally, follow these steps:
 
